@@ -1,0 +1,27 @@
+.container-lg{
+    text-align: center;
+}
+
+.box {
+    width: 380px;
+    height: 380px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+  }
+
+  p{
+      background-color: black;
+      color: white;
+  }
+
+h1{
+    margin-left:10px;
+    font-size: 35px;
+}
+
+.btn:focus{
+ outline:none;
+ box-shadow: none;
+}
+
